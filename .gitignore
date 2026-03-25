@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+dataset/combustion/0001.raw
+dataset/h2/0001.raw
