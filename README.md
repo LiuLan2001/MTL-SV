@@ -1,6 +1,4 @@
-# Official Code Repository for EuroVis 2026 paper MTL-SV
-
-This repository contains the official implementation of the EuroVis 2026 paper:
+# Official Implementation of the EuroVis 2026 Paper
 
 **Volume Data Reconstruction and Uncertainty Quantification in an Implicit Neural Representation via Multi-Task Learning**
 
