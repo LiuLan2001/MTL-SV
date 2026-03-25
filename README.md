@@ -4,8 +4,6 @@ This repository contains the official implementation of the EuroVis 2026 paper:
 
 **Volume Data Reconstruction and Uncertainty Quantification in an Implicit Neural Representation via Multi-Task Learning**
 
-We provide the code for the baseline method, the state-of-the-art comparison method **RMDSRN**, and our proposed method, together with the three datasets used in the paper.
-
 ## Overview
 
 This repository includes implementations of multiple methods for volume data reconstruction and uncertainty quantification in implicit neural representations (INRs). Specifically, it contains:
@@ -20,8 +18,6 @@ The input to the models is **4D spatiotemporal coordinates**, which means that t
 
 - **single-frame volumetric data**, and
 - **time-varying volumetric sequences**.
-
-This unified formulation enables the framework to support a wider range of scientific volume data reconstruction tasks.
 
 ## Repository Structure
 
@@ -46,12 +42,3 @@ The code was developed and tested in a Jupyter-based environment with the follow
 - **CUDA:** 11.8
 - **cuDNN:** 8.7.0
 - **GPU:** NVIDIA A800 80GB PCIe
-
-## Running the Code
-
-The code is intended to be executed in **Jupyter notebooks**.  
-The notebooks include the main procedures for training, inference, and evaluation.
-
-## Notes
-
-Since the models take **4D spatiotemporal coordinates** as input, they can be directly applied to either static volumetric data or dynamic time-varying sequences under a unified representation framework.
