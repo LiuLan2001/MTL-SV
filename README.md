@@ -1,4 +1,3 @@
-# Official Code Repository for EuroVis 2026
 
 This repository contains the official implementation of the EuroVis 2026 paper:
 
