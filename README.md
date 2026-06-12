@@ -3,6 +3,7 @@
 This repository contains the official implementation of the following EuroVis 2026 paper:
 
 **Volume Data Reconstruction and Uncertainty Quantification in an Implicit Neural Representation via Multi-Task Learning**
+
 📄 Paper: https://onlinelibrary.wiley.com/doi/10.1111/cgf.70473
 
 ## Overview
